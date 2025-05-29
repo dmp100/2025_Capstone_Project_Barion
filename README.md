@@ -29,7 +29,7 @@
 
 | 메뉴 관리 | 메뉴 수정 | 메뉴 추가 |
 |:---:|:---:|:---:|
-| <img width="250" src="./assets/메뉴관리.gif"/> | <img width="250" src="https://github.com/user-attachments/assets/44805238-34da-4f27-af7c-fb3adcead5a0"/> | <img width="250" src="https://github.com/user-attachments/assets/b0be24b6-3268-4236-b4d9-0eda3e15fc7c"/> |
+| <img width="250" src="https://github.com/user-attachments/assets/5386c637-f2bd-47d1-9f1e-da33c528bf34"/> | <img width="250" src="https://github.com/user-attachments/assets/44805238-34da-4f27-af7c-fb3adcead5a0"/> | <img width="250" src="https://github.com/user-attachments/assets/b0be24b6-3268-4236-b4d9-0eda3e15fc7c"/> |
 
 | 카테고리 추가 | 설문조사 | 주문 관리 |
 |:---:|:---:|:---:|
