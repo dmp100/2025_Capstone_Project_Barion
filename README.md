@@ -26,9 +26,23 @@
 
 ## 🟨 **SCREENSHOT**
 
-| 메뉴 목록 | 메뉴 추가 | 메뉴 수정 | 카테고리 관리 | 매출 분석 | 주문 관리 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img width="200" src="https://via.placeholder.com/200x300/4CAF50/FFFFFF?text=Menu+List+Screen"/> | <img width="200" src="https://via.placeholder.com/200x300/2196F3/FFFFFF?text=Add+Menu+Screen"/> | <img width="200" src="https://via.placeholder.com/200x300/FF9800/FFFFFF?text=Edit+Menu+Screen"/> | <img width="200" src="https://via.placeholder.com/200x300/9C27B0/FFFFFF?text=Category+Management"/> | <img width="200" src="https://via.placeholder.com/200x300/E91E63/FFFFFF?text=Sales+Analytics"/> | <img width="200" src="https://via.placeholder.com/200x300/607D8B/FFFFFF?text=Order+Management"/> |
+
+| 메뉴 관리 | 메뉴 수정 | 메뉴 추가 |
+|:---:|:---:|:---:|
+| <img width="250" src="./assets/메뉴관리.gif"/> | <img width="250" src="https://github.com/user-attachments/assets/44805238-34da-4f27-af7c-fb3adcead5a0"/> | <img width="250" src="https://github.com/user-attachments/assets/b0be24b6-3268-4236-b4d9-0eda3e15fc7c"/> |
+
+| 카테고리 추가 | 설문조사 | 주문 관리 |
+|:---:|:---:|:---:|
+| <img width="250" src="https://github.com/user-attachments/assets/bc884228-997f-4312-b29e-e8eac433f13e"/> | <img width="250" src="https://github.com/user-attachments/assets/9f4df6f4-f060-4bab-b827-1f11b6d3b4af"/> | <img width="250" src="https://github.com/user-attachments/assets/831cb54f-99ad-45c2-8418-5b13f46730bd"/> |
+
+| 직원 정보 | 직원 정보 추가 및 수정 | 매출 관리 |
+|:---:|:---:|:---:|
+| <img width="250" src="https://github.com/user-attachments/assets/5464cc68-44cf-422f-97d3-65abac3d3c0e"/> | <img width="250" src="https://github.com/user-attachments/assets/624c0f20-50f8-4cf7-a6dc-c8a7a8536d13"/> | <img width="250" src="https://github.com/user-attachments/assets/d4fa675b-8c4f-43a3-b9d2-03e00544de50"/> |
+
+| 스플래시, 온보딩 | 유효성검사 |
+|:---:|:---:|
+| <img width="250" src="https://github.com/user-attachments/assets/a468f0c2-2818-4a8b-b0cc-256595a33d8a"/> | <img width="250" src="https://github.com/user-attachments/assets/976542c8-8e5c-422b-9e68-cfcedfcc38e8"/> |
+
 
 ## 🌟 **주요 기능 (Android App)**
 
