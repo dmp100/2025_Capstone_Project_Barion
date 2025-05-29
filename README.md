@@ -1,6 +1,6 @@
 # Barion Android - 소상공인용 스마트 매장관리 앱
 > Clean Architecture + MVI Pattern 기반 배리어프리 키오스크 연동 Android 앱 <br>
-24.11.01 - 25.05.30
+25.01.17 - 25.05.30
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2142FF&height=200&section=header&text=Barion%20Android:%20Smart%20Restaurant%20Management&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
